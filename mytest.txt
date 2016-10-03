@@ -1,1 +1,1 @@
-hello, this is a test for my first git reposit
+hello, this is a test
